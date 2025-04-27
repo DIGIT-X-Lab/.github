@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="/DIGIT-X Banner/1.png" media="(prefers-color-scheme: dark)">
-    <img src="/DIGIT-X Banner/2.png" alt="MOSAICX Logo" width="100%">
+    <source srcset="https://raw.githubusercontent.com/DIGIT-X-Lab/.github/main/DIGIT-X%20Banner/2.png" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/DIGIT-X-Lab/.github/main/DIGIT-X%20Banner/1.png" alt="MOSAICX Logo" width="100%">
   </picture>
 </p>
 
