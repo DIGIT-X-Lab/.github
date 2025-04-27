@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="DIGIT-X Banner/1.png" media="(prefers-color-scheme: dark)">
-    <img src="DIGIT-X Banner/2.png" alt="MOSAICX Logo" width="65%">
+    <source srcset="/DIGIT-X Banner/1.png" media="(prefers-color-scheme: dark)">
+    <img src="/DIGIT-X Banner/2.png" alt="MOSAICX Logo" width="65%">
   </picture>
 </p>
 
