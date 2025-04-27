@@ -1,12 +1,13 @@
-# 🧠 DIGIT-X Lab
+<p align="center">
+  <picture>
+    <source srcset="DIGIT-X Banner/1.png" media="(prefers-color-scheme: dark)">
+    <img src="DIGIT-X Banner/2.png" alt="MOSAICX Logo" width="65%">
+  </picture>
+</p>
 
-Welcome to **DIGIT-X** — a new lab based in the Department of Radiology at LMU Klinikum, Munich.
+## 🚀 Welcome to **DIGIT-X**
 
----
-
-## 🚀 Purpose
-
-We're quietly but intentionally rethinking how medical data is structured, connected, and turned into knowledge that actually helps in clinical care.
+We're a new lab based in the Department of Radiology at LMU Klinikum, Munich. We're quietly but intentionally rethinking how medical data is structured, connected, and turned into knowledge that actually helps in clinical care.
 
 We care about infrastructure — how imaging connects with clinical silos, how systems talk to each other, and how AI can act as a transparent, explainable catalyst for clinical decision-making.
 
